@@ -1,0 +1,15 @@
+D:\GeekBrains\С#\homework6\bin\Debug\net6.0\homework6.exe
+D:\GeekBrains\С#\homework6\bin\Debug\net6.0\homework6.deps.json
+D:\GeekBrains\С#\homework6\bin\Debug\net6.0\homework6.runtimeconfig.json
+D:\GeekBrains\С#\homework6\bin\Debug\net6.0\homework6.dll
+D:\GeekBrains\С#\homework6\bin\Debug\net6.0\homework6.pdb
+D:\GeekBrains\С#\homework6\obj\Debug\net6.0\homework6.csproj.AssemblyReference.cache
+D:\GeekBrains\С#\homework6\obj\Debug\net6.0\homework6.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\С#\homework6\obj\Debug\net6.0\homework6.AssemblyInfoInputs.cache
+D:\GeekBrains\С#\homework6\obj\Debug\net6.0\homework6.AssemblyInfo.cs
+D:\GeekBrains\С#\homework6\obj\Debug\net6.0\homework6.csproj.CoreCompileInputs.cache
+D:\GeekBrains\С#\homework6\obj\Debug\net6.0\homework6.dll
+D:\GeekBrains\С#\homework6\obj\Debug\net6.0\refint\homework6.dll
+D:\GeekBrains\С#\homework6\obj\Debug\net6.0\homework6.pdb
+D:\GeekBrains\С#\homework6\obj\Debug\net6.0\homework6.genruntimeconfig.cache
+D:\GeekBrains\С#\homework6\obj\Debug\net6.0\ref\homework6.dll
